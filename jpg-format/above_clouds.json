@@ -1,0 +1,28 @@
+{
+  "sunrise": [
+    "sunrise_1.jpeg",
+    "sunrise_2.jpeg",
+    "sunrise_3.jpeg",
+    "sunrise_4.jpeg",
+    "sunrise_5.jpeg"
+  ],
+  "day": [
+    "day_1.jpeg",
+    "day_2.jpeg",
+    "day_3.jpeg",
+    "day_4.jpeg"
+  ],
+  "sunset": [
+    "sunset_1.jpeg",
+    "sunset_2.jpeg",
+    "sunset_3.jpeg",
+    "sunset_4.jpeg",
+    "sunset_5.jpeg"
+  ],
+  "night": [
+    "night_1.jpeg",
+    "night_2.jpeg",
+    "night_3.jpeg",
+    "night_4.jpeg"
+  ]
+}
